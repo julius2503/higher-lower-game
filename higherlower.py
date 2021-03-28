@@ -5,6 +5,7 @@ import json
 import random
 import numpy
 from colorama import *
+
 class game:
     def __init__(self):
         init(convert=True)
