@@ -1,4 +1,4 @@
-# higher-lower-game
+# Higher-Lower Game
 Python Bot that automates the Higher-Lower game
 
 ## How it works
