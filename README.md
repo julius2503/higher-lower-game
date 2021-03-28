@@ -14,6 +14,6 @@ To run this code the following arrangements must be set:
  1. Python 3.x should be installed
  2. Downloading the ChromeDriver ("https://chromedriver.chromium.org/") and adding it to the project folder
  3. Installing the requiered libraries:
-   pip install selenium
-   pip install numpy
-   pip install colorama
+   1) pip install selenium
+   2) pip install numpyp
+   3) ip install colorama
