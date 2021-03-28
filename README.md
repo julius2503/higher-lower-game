@@ -1,5 +1,5 @@
 # Higher-Lower Game
-Python Bot that automates the Higher-Lower game
+A Python Bot that automates the Higher-Lower game
 
 ## How it works
 I built a bot that automates the [Higher-Lower Game](http://www.higherlowergame.com). 
