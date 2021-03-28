@@ -12,9 +12,9 @@ This documentations contains the programm "higherlower.py" and the database "db.
 
 ## Requirements
 To run this code the following arrangements must be set:
- 1. Python 3.x should be installed
- 2. Downloading the ChromeDriver ("https://chromedriver.chromium.org/") and adding it to the project folder
- 3. Installing the requiered libraries:
+ 1. Python 3.x must be installed
+ 2. [ChromeDriver](https://chromedriver.chromium.org/) must be downloaded and added to the folder
+ 3. The following libraries must be installed:
     > pip install selenium 
 
     > pip install numpyp 
