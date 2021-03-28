@@ -11,8 +11,9 @@ This documentations contains the programm "higherlower.py" and the database "db.
 
 # Requirements
 To run this code the following arrangements must be set:
- 1. Downloading the ChromeDriver ("https://chromedriver.chromium.org/") and adding it to the project folder
- 2. Installing the requiered libraries:
-   /pip install selenium
-   /pip install numpy
-   /pip install colorama
+ 1. Python 3.x should be installed
+ 2. Downloading the ChromeDriver ("https://chromedriver.chromium.org/") and adding it to the project folder
+ 3. Installing the requiered libraries:
+   pip install selenium
+   pip install numpy
+   pip install colorama
