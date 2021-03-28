@@ -9,6 +9,7 @@ The whole database has a capacity of 1.560 values. The highscore of my programm 
 
 This documentations contains the programm "higherlower.py" and the database "db.json".
 
+# Requirements
 To run this code the following arrangements must be set:
  1. Downloading the ChromeDriver ("https://chromedriver.chromium.org/") and adding it to the project folder
  2. Installing the requiered libraries:
