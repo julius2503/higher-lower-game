@@ -17,6 +17,6 @@ To run this code the following arrangements must be set:
  3. The following libraries must be installed:
     > pip install selenium 
 
-    > pip install numpyp 
+    > pip install numpy
 
     > pip install colorama
